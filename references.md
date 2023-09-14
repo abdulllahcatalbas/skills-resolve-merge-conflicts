@@ -1,4 +1,4 @@
-<<<<<<< my-resume
-=======
-  wrwr qeproqwe rqpwer qwper 
->>>>>>> main
+
+# References
+* octocat 1 😈
+
